@@ -15,11 +15,12 @@
 
     macros {
         m_enie: m_enie {
+            label = "M_ENIE";
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings =
                 <&macro_press &kp LALT>,
-                <&macro_tap &kp KP_N0 &kp KP_N2 &kp KP_N4 &kp KP_N1>,
+                <&macro_tap &kp KP_NUMBER_0 &kp KP_NUMBER_2 &kp KP_NUMBER_4 &kp KP_NUMBER_1>,
                 <&macro_release &kp LALT>;
         };
     };
