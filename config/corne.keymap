@@ -75,7 +75,7 @@
         };
         layer_3 {
             bindings = <
-&trans  &kp LG(V)    &kp LG(LS(V))    &kp LG(D)  &kp F5   &kp F6        &kp RIGHT_PARENTHESIS  &kp DOUBLE_QUOTES  &kp PIPE   &kp EQUAL      &kp HASH       &kp PERCENT
+&trans  &kp LG(V)    &kp LG(LS(S))    &kp LG(D)  &kp F5   &kp F6        &kp RIGHT_PARENTHESIS  &kp DOUBLE_QUOTES  &kp PIPE   &kp EQUAL      &kp HASH       &kp PERCENT
 &trans  &kp LA(F4)   &kp LA(LS(ESC))  &trans     &trans   &trans        &kp AT                 &kp SINGLE_QUOTE   &kp BSLH   &kp AMPERSAND  &kp LESS_THAN  &kp GREATER_THAN
 &trans  &trans       &trans           &trans     &trans   &trans        &ext_power EP_ON       &ext_power EP_OFF  &m_enie    &trans         &trans         &trans
                                       &trans     &trans   &kp SPACE     &kp ENTER              &trans             &kp RIGHT_ALT
